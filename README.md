@@ -254,3 +254,5 @@ Enjoy the game and feel free to experiment with different datasets and hyperpara
 ---
 
 **Last Updated**: December 2025
+
+**Sandesh Bhatta**
